@@ -187,6 +187,8 @@
 - 입소 날 점심은 [논산 시내](http://naver.me/G51qb99F)에서 먹자
 	- 훈련소 바로 앞 식당들은 비싸고 맛 없고 불친절함
   - 논산역 근처에서 먹는 것도 괜찮지만 연무대와의 거리가 상당하다
+- pc 카톡을 켜놓고 들어가자
+  - 카카오톡 대화기록은 3일이 지나면 서버에서 삭제됨
 
 
 ## 관련 자료
@@ -198,3 +200,4 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
