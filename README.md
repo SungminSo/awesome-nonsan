@@ -49,6 +49,7 @@
 	- 샴푸, 바디워시, 폼클렌징, 샤워타월, 수건, 칫솔/치약 등
 - 기초 스킨 케어
   - 로션, 스킨, 립밤, 선크림, 핸드크림 등
+  - 유리로 되어 있는 제품들은 입소때 압수해서 퇴소때 돌려줌
 - 손목 시계
   - 아날로그 보다는 디지털
   - 추천 - [지샥 머드맨](https://www.coupang.com/vp/products/38065513?itemId=140354969&vendorItemId=3003469445&q=%EC%A7%80%EC%83%A5+%EB%A8%B8%EB%93%9C%EB%A7%A8&itemsCount=36&searchId=9e34fbb1625d4cf7ad98408743e2e89e&rank=0&isAddedCart=)
