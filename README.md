@@ -67,7 +67,6 @@
   - 추천 - [이니스프리 위장크림](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1731820018&gclid=EAIaIQobChMInOzb6tyz4gIVCWoqCh3qmwpGEAQYASABEgIrHPD_BwE&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6)
 - 면봉
   - 총기 손질 끝판왕
-- 라이트펜
 - 책
   - 생활관에 생각보다 많지만 읽을만한 책은 순식간에 없어짐
 - 큰 가방
@@ -84,8 +83,8 @@
   - 상하의 3벌씩 나눠줌
 - 여분의 옷
 - 필기도구
-  - 볼펜, 유성 매직 관물함에 있음
-  - 처음에 서류 쓰라고 모나미 볼펜 나눠줌
+  - 처음에 서류 쓰라고 볼펜 나눠줌
+  - 라이트펜도 입소할 때 내라고 함
 - 현금
   - PX에서 쓸 수도 없고 전부 본인 계좌로 입금해줌
 - 세면백
